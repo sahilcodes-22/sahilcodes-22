@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**sahilcodes-22/sahilcodes-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Welcome to Sahil's GitHub</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <samp>CS Student · C++ · DSA · Development</samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Currently
+
+Learning DSA · Exploring Web Development
+
+### Tech
+
+<p>
+  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=FFFFFF" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FFFFFF" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</p>
+
+### Projects
+
+- [dsa-cpp-journey](https://github.com/sahilcodes-22/dsa-cpp-journey)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcodes-22&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=B3B3B3" height="120" alt="Most used languages" />
+</p>
