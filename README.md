@@ -2,14 +2,14 @@
 <h1 align="center">Welcome to Sahil's GitHub</h1>
 
 <p align="center">
-  <samp>CS Student · C++ · DSA · Development</samp>
+  <samp>CS Student · C++ · DSA</samp>
 </p>
 
 ---
 
 ### Currently
 
-Learning DSA · Exploring Web Development
+Learning DSA
 
 ### Tech
 
